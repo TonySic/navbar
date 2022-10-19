@@ -1,0 +1,22 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 0 0 20px gray;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    font-size: 24px;
+    font-family: "Baloo Bhai", cursive;
+    width: 50%;
+
+}
+
+a {
+    color: #ff9a17;
+    text-decoration: none;
+
+}
